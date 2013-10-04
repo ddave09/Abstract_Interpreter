@@ -1,0 +1,5 @@
+G::=PG|P
+P::=N'::='ARS
+ARS::=RS'|'ARS|RS
+RS::=SRS|S
+S::=N|T|'e'
