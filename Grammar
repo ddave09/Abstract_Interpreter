@@ -1,0 +1,5 @@
+A::=aBb|d|f|e
+B::=bD|e|D|e
+C::=Bd|x|Y
+Y::=a
+D::=u
